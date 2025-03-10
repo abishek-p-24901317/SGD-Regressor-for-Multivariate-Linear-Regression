@@ -49,7 +49,8 @@ print("\nPredictions:\n",Y_pred[:5])
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/bc8bf8ae-1d4e-4d91-886e-7c7d1e5f8e2c)
+![Screenshot 2025-03-10 155819](https://github.com/user-attachments/assets/a6bfa19b-1eb5-423c-b31b-ad9bb3bde011)
+
 
 
 
